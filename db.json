@@ -268,50 +268,5 @@
     "currency": "USD",
     "image": "https://via.placeholder.com/150",
     "rating": 4.2
-},
-{
-    "id": 31,
-    "title": "External Hard Drive",
-    "description": "1TB external hard drive with USB 3.0 compatibility.",
-    "price": 59.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.7
-},
-{
-    "id": 32,
-    "title": "Monitor Stand",
-    "description": "Adjustable monitor stand with extra storage space.",
-    "price": 24.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.3
-},
-{
-    "id": 33,
-    "title": "Ergonomic Chair",
-    "description": "Comfortable ergonomic office chair with lumbar support.",
-    "price": 199.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.5
-},
-{
-    "id": 34,
-    "title": "Portable Charger",
-    "description": "Fast portable charger with USB-C and wireless charging support.",
-    "price": 49.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.6
-},
-{
-    "id": 35,
-    "title": "Smart Bulb",
-    "description": "Wi-Fi smart bulb with adjustable brightness and color.",
-    "price": 19.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.4
 }
 ]
