@@ -314,51 +314,6 @@
     "currency": "USD",
     "image": "https://via.placeholder.com/150",
     "rating": 4.4
-},
-{
-    "id": 36,
-    "title": "Noise Cancelling Earplugs",
-    "description": "Reusable noise-cancelling earplugs for work and travel.",
-    "price": 14.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.2
-},
-{
-    "id": 37,
-    "title": "Streaming Camera",
-    "description": "4K streaming camera with advanced autofocus and low-light performance.",
-    "price": 249.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.8
-},
-{
-    "id": 38,
-    "title": "VR Headset",
-    "description": "Virtual reality headset compatible with multiple platforms.",
-    "price": 299.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.6
-},
-{
-    "id": 39,
-    "title": "Desktop Microphone",
-    "description": "USB desktop microphone for streaming and video conferencing.",
-    "price": 49.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.5
-},
-{
-    "id": 40,
-    "title": "Cable Organizer",
-    "description": "Set of cable organizers for tidy cable management.",
-    "price": 9.99,
-    "currency": "USD",
-    "image": "https://via.placeholder.com/150",
-    "rating": 4.3
 }
 ]
 
